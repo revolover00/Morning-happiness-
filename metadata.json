@@ -1,0 +1,6 @@
+{
+  "name": "Morning Happiness",
+  "description": "Private Chef & Luxury Dining Experience in Las Vegas, NV run by Chef Ron.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
